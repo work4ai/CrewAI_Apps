@@ -34,6 +34,6 @@ To use the Stock Researcher & Financial Analysis AI Agents, follow these steps:
 
   streamlit run main.py
 
-  ### Refrences
+### Refrences
 
   * CrewAI Multi Agent - https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/
