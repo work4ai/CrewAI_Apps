@@ -2,13 +2,13 @@
 
 This repository contains an AI-powered financial analysis system that assists users in researching US stocks, analyzing financial data, assessing risks, performing technical and fundamental analysis, and fetching the latest news. It uses LangChain, yfinance, Streamlit, and CrewAI with LLama 70B models to provide insightful financial reports.
 
-##Table of Content
+## Table of Content
 
-###Overview
+### Overview
 
 This project creates multiple AI agents that collaborate to gather stock information, perform technical/fundamental analysis, evaluate risk, and provide detailed stock reports. These agents use the LLama 70B model to dynamically interact and generate financial insights tailored to user queries.
 
-###Features
+### Features
 
 * Fetch basic stock information (name, sector, market cap, etc.)
 * Perform fundamental analysis (P/E ratio, EPS, revenue growth, etc.)
@@ -17,7 +17,7 @@ This project creates multiple AI agents that collaborate to gather stock informa
 * Fetch recent news articles for stocks
 * Combine all analyses into comprehensive stock reports
 
-###Technologies Used
+### Technologies Used
 
 * LangChain
 * CrewAI
@@ -25,7 +25,7 @@ This project creates multiple AI agents that collaborate to gather stock informa
 * Streamlit
 * LLama3 70B from Groq
 
-###Usage
+### Usage
 
 To use the Stock Researcher & Financial Analysis AI Agents, follow these steps:
 
