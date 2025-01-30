@@ -7,7 +7,7 @@ from IPython.display import Markdown
 warnings.filterwarnings('ignore')
 
 # Groq API Key (Replace with your actual API key)
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "GROQ_API_KEY"    #Your GROQ API KEY
 
 # Initialize LLM
 llm = ChatGroq(
